@@ -1,0 +1,14 @@
+{
+    "imie": "Weronika",
+    "lista": [
+        1,
+        2,
+        3
+    ],
+    "nazwisko": "Slowinska",
+    "praca": {
+        "biuro": "tlumaczka",
+        "szkola": "nauczycielka"
+    },
+    "wiek": 23
+}

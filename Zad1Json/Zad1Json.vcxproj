@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Zad1Json.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="json\json.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
